@@ -20,5 +20,5 @@ public class Boletin1_1 {
         area = base*altura/2;
         System.out.println("El area del triangulo es : " + area );
     }
-    
+    //Añado a Junsz
 }
