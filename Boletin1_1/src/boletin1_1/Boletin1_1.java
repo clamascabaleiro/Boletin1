@@ -21,4 +21,5 @@ public class Boletin1_1 {
         System.out.println("El area del triangulo es : " + area );
     }
     //Añado a Junsz
+    //Editando proyecto
 }
